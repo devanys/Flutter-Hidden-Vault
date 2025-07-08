@@ -1,4 +1,6 @@
 # 🔐 Hidden Vault - Flutter Secure Media Vault
+![WhatsApp Image 2025-07-08 at 22 36 12_0d40c334](https://github.com/user-attachments/assets/e2bae097-d6e9-4a45-a3d0-e3d35fc1b678)
+
 
 **Hidden Vault** is a Flutter-based mobile application that acts as a private vault to securely store **images** and **videos**. All stored media are hidden from the device’s gallery and file manager, and can only be accessed through the app using a **local PIN code**.
 
