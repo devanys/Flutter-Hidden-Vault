@@ -1,16 +1,37 @@
-# hidden
+# 🔐 Hidden Vault - Flutter Secure Media Vault
 
-A new Flutter project.
+**Hidden Vault** is a Flutter-based mobile application that acts as a private vault to securely store **images** and **videos**. All stored media are hidden from the device’s gallery and file manager, and can only be accessed through the app using a **local PIN code**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔒 Local PIN-based security (no account/login required)
+- 📁 Import and store images & videos from device storage
+- 🕵️ Hidden from gallery and file explorers
+- 🖼️ Preview images and videos directly within the app
+- 🗑️ Delete media securely from the vault
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/) & Dart  
+- [`path_provider`](https://pub.dev/packages/path_provider)  
+- [`file_picker`](https://pub.dev/packages/file_picker)  
+- [`permission_handler`](https://pub.dev/packages/permission_handler)
+
+---
+
+## 📱 Platform Support
+
+- ✅ Android (Minimum SDK: 21)
+- ❌ iOS: Not supported (yet)
+
+---
+
+## 🚧 Project Status
+
+> This project is currently under active development.  
+> Contributions, suggestions, and feedback are **very welcome**!
+
